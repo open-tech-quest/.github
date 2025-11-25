@@ -1,0 +1,1 @@
+![Open Tech Quest](../assets/open-tech-quest.png)
